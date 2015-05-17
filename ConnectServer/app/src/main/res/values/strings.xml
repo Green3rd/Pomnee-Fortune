@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Main -->
+    <string name="app_name">ผมนี้ ทำนายดวง</string>
+    <string name="description">GrEeN3rd</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Home -->
+    <string name="Developer">GrEeN3rd</string>
+    <string name="empty_string"></string>
+
+    <string name="prediction">คำทำนาย</string>
+
+    <string name="app_id">329175223809971</string>
+    <string name="not_have_internet_connection">ผมนี้หาเน็ตไม่เจอเลย</string>
+    <string name="go_back_to_connect_internet">ต่อเน็ตก่อนนะ</string>
+    <string name="continue_anyway">ช่างหัวเน็ตมัน</string>
+
+    <!-- Ads -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>

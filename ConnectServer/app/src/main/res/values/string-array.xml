@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="link_pictures">
+        <item>https://scontent-b-sin.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/983811_1499510547001609_2978230253039628468_n.png?oh=cc92ad2645918fb65129cae4be93cb54&amp;oe=554B2ABC</item>
+        <item>https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/10302102_1497339247218739_8131307698939958397_n.png?oh=9c954cc22ba0c192e9f780e0299b02f5&amp;oe=554AAF5C&amp;__gda__=1431098603_530fb07022bb2e003395824d9860eddb</item>
+        <item>https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10518842_1493602267592437_9052115547077798341_n.png?oh=f44f0fd298efc264c4d15f2b92679162&amp;oe=556566AA&amp;__gda__=1435404179_d05cdb651162b7b1bfb5a19d92f47729</item>
+        <item>https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/1513815_1493111330974864_4093856121153512039_n.png?oh=d97b1532b7cba8b52e32928dfe8cf913&amp;oe=555C1B14&amp;__gda__=1431588990_6aef052a410a4df2ea2ebca3f6b65afc</item>
+        <item>https://scontent-a-sin.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10624821_1492741841011813_5217258887867675731_n.png?oh=58a7e8db4250b9e54b78d4075f28c54b&amp;oe=55968DDF</item>
+        <item>https://scontent-b-sin.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10610920_1491337737818890_6653330858218037572_n.png?oh=aa115864e2c7b6f2316bf0099bfa6732&amp;oe=554ECB48</item>
+        <item>https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10422547_1490687267883937_4256503415274740465_n.png?oh=a8f97229c1fabd6c5bd57e862a46df55&amp;oe=5565CCA8&amp;__gda__=1432435906_5804edc3030180f045ed457f477d9aac</item>
+        <item>https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/1919651_1490894334529897_3424483927400114672_n.png?oh=4c678807dfd407b665dcda623dc174bb&amp;oe=55610B2E&amp;__gda__=1431124630_29eb44fb9531e1dac1397e3bcdf83f5a</item>
+        <item>https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10357113_1490799391206058_7120357064542763322_n.png?oh=c03055b794064f4f731ac86f5204d285&amp;oe=5565EE87&amp;__gda__=1432021229_d88338d2a6ddc0703ad875dec74f5a67</item>
+        <item>https://scontent-a-sin.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10468680_1490749454544385_1448654189965863373_n.png?oh=c40e4168fc5014bbc2761e58ee9cc5df&amp;oe=554C3D5A</item>
+        <item>https://scontent-a-sin.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/1901179_1490024934616837_143799558769995358_n.png?oh=cf81477764573997f68dee2208274d60&amp;oe=558F062B</item>
+        <item>https://scontent-b-sin.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/10711077_1490002177952446_4272374506269939147_n.jpg?oh=367d6a886f02335ac7c0aa99eb425b2e&amp;oe=559343E1</item>
+    </string-array>
+
+
+    <string-array name="foretell_head">
+        <item>นู๋นี้กินเหนียวไก่เลยนิ</item>
+        <item>ผมนี้ซึ้งมากเลย</item>
+        <item>ผมนี้น้ำตาไหลเลย</item>
+        <item>ผมนี้ฮาโลวีนเลย</item>
+        <item>ผมนี้สตอมากเลย</item>
+        <item>ผมนี้แดกข้าวเลย</item>
+        <item>ผมนี้ควักปืนมายิงเพื่อนเลย</item>
+        <item>ผมนี้ใส่แว่นเลย</item>
+        <item>ผมนี้ GG เลย</item>
+        <item>ผมนี้ล้มละลายเลย</item>
+        <item>ผมนี้ตั้งใจเรียนเลย</item>
+        <item>ผมนี้เขวี้ยงแมคบุ๊คเลย</item>
+    </string-array>
+
+    <string-array name="foretell_body">
+        <item>โชคลาภจะมาหาคุณในไม่ช้านี้</item>
+        <item>วันนี้จะมีเรื่องที่ทำให้คุณถึงกับน้ำตาซึม!</item>
+        <item>"น้ำ" จะเป็นสิ่งที่นำโชคให้กับคุณ</item>
+        <item>วันนี้คุณจะได้เจอเรื่องสนุกๆ ที่แฝงไปด้วยความน่ากลัว</item>
+        <item>สตอให้น้อยๆหน่อยนะ แล้วชีวิตจะดีขึ้น</item>
+        <item>หากคุณกินข้าวให้ครบสามมื้อ ทานอาหารให้ครบ5หมู่ คุณจะมีสุขภาพที่ดี</item>
+        <item>วันนี้เพื่อนของคุณจะทำให้คุณหัวเสีย ให้อภัยกันไว้นะ ยังไงก็เพื่อนกัน</item>
+        <item>พักสายตาบ้างนะ อย่าเล่นคอมหรือมือถือมากไป</item>
+        <item>ทำเรื่องในวันนี้อย่างจริงจัง แล้วจะเจอคนจริงใจ #จีจี</item>
+        <item>หากอากาศร้อนไม่ควรออกไปข้างนอก อาจถึงขั้นหน้ามืดเป็นลมได้ ตากแดดนานๆ มีโอกาสละลายได้</item>
+        <item>ตั้งใจหาความรู้เรื่องใหม่ๆเข้าตัว แล้วคนดีๆงานดีๆจะเข้ามาเอง</item>
+        <item>วันนี้จะมีเรื่องทำให้อารมณ์เสีย พยายามคุมสติไว้ อย่าให้ของหรือคนรอบข้างพลอยเดือดร้อนไปด้วยอารมณ์ชั่ววูบ</item>
+    </string-array>
+</resources>

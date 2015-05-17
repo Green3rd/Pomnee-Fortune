@@ -1,0 +1,77 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="2dp"
+    android:paddingRight="2dp"
+    android:orientation="vertical" >
+
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="0.6">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_centerInParent="true"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+
+                android:id="@+id/imageView2"
+                android:src="@drawable/bg_empty"
+                android:layout_gravity="center_horizontal" />
+
+        </LinearLayout>
+        <!-- 60% Width End-->
+
+    </RelativeLayout>
+
+
+
+
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="0.4">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_centerInParent="true"
+            android:orientation="vertical"
+            android:weightSum="1">
+
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:id="@+id/foretellBody"
+                android:text="@string/prediction"
+                android:layout_gravity="center_horizontal"
+                android:textSize="22sp"
+                android:textIsSelectable="true"
+                android:textColor="#ff000000"
+                 />
+
+            <ImageView
+                android:layout_width="126dp"
+                android:layout_height="40dp"
+                android:id="@+id/shareButton"
+                android:src="@drawable/share1"
+                android:layout_gravity="bottom|left" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+    <!-- for debug
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:id="@+id/foretellHead"
+        android:text="@string/action_settings"
+        android:layout_gravity="center_horizontal"/>
+        -->
+
+
+</LinearLayout>
